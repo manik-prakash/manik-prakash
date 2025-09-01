@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱I’m currently learning<br><br>AWS (cloud services & deployments)<br><br>Docker & Containers<br><br>GitHub Actions & CI/CD pipelines<br><br>DevOps tools & practices<br><br>🔭 I’m currently working on<br><br>Building backend systems with secure authentication & analytics<br><br>Exploring automation workflows with GitHub Actions<br><br>🤝 I’m looking to collaborate on<br><br>Open-source DevOps projects<br><br>Backend or full-stack applications<br><br>Cloud-native applications<br><br>💡 Ask me about<br><br>Backend Development (Node.js, Express, MongoDB)<br><br>Cloud & DevOps fundamentals<br><br>AI/ML projects I’ve worked on<br><br>⚡ Fun fact<br><br>I love combining AI + DevOps, and I recently built a malware detection app powered by ML + LLMs 🚀
+🌱 **Currently Learning:** AWS · Docker · GitHub Actions · DevOps  
+🔭 **Working On:** Backend systems · CI/CD automation  
+🤝 **Collab On:** DevOps · Backend · Cloud-native apps  
+💡 **Ask Me About:** Backend Dev · DevOps basics · AI/ML projects  
+⚡ **Fun Fact:** I love blending AI + DevOps — built a malware detection app with ML & LLMs 🚀  
 
 
 ## 🌐 Socials:
